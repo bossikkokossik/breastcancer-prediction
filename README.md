@@ -21,7 +21,7 @@ To engage with this project, follow these instructions:
 1. **Clone the Repository**:
     Get the code:
     ```
-    git clone git@github.com/bossikkokossik/breastcancer-prediction
+    git clone https://github.com/bossikkokossik/breastcancer-prediction
     ```
 
 2. **Navigate to the Project Directory**:
