@@ -21,12 +21,12 @@ To engage with this project, follow these instructions:
 1. **Clone the Repository**:
     Get the code:
     ```
-    git clone git@github.com:yourusername/BreastCancerPrediction.git
+    git clone git@github.com/bossikkokossik/breastcancer-prediction
     ```
 
 2. **Navigate to the Project Directory**:
     ```
-    cd BreastCancerPrediction
+    cd breastcancer-prediction
     ```
 
 3. **Prepare the Dataset**:
